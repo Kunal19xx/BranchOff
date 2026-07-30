@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.log
+instances/
+logs/
+results/
+*.egg-info/
+.venv/
+*.mps
